@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+		"name": "Pi",
+		"unitType": "Atomic Bomber",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"replaces": "Atomic Bomb",
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
+		"strength": 10000000000,
+		"rangedStrength": 100,
+		"range": 2,
+		"cost": 1,
+		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"promotions" : ["Evasion"],
+		"attackSound": "nuke"
 	}
 ]
