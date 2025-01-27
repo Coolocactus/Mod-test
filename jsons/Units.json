@@ -11,7 +11,7 @@
 		"cost": 1,
 		"requiredTech": "Nuclear Fission",
 		"promotions" : ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [2]","Blast radius [10]"],]
+		"uniques": ["Nuclear weapon of Strength [2]","Blast radius [10]"],
 		"attackSound": "nuke"
 	}
 ]
