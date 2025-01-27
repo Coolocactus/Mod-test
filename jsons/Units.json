@@ -6,11 +6,12 @@
 		"replaces": "Atomic Bomb",
 		"range": 15,
 		"strength": 10000000000,
-		"rangedStrength": 300,
+		"rangedStrength": 300000,
 		"range": 10,
 		"cost": 1,
 		"requiredTech": "Nuclear Fission",
 		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [2]","Blast radius [10]"],]
 		"attackSound": "nuke"
 	}
 ]
