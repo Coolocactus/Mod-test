@@ -5,6 +5,7 @@
 		"uniqueTo": "Pi",
 		"replaces": "Atomic Bomb",
 		"range": 15,
+		"movement": 1,
 		"strength": 10000000000,
 		"rangedStrength": 300000,
 		"range": 10,
