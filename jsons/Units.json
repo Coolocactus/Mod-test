@@ -2,8 +2,7 @@
 	{
 		"name": "Atomic Bomb",
 		"unitType": "Atomic Bomber",
-		"movement": 1,
-		"unitType": "Atomic Bomber",   
+		"movement": 1,   
 		"uniqueTo": "Pi",   
 		"replaces": "Atomic Bomb",
 		"strength": 1000,
