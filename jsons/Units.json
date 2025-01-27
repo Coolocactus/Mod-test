@@ -4,7 +4,7 @@
 		"unitType": "Atomic Bomber",
 		"movement": 1,   
 		"uniqueTo": "Pi",   
-		"replaces": "Atomic Bomb",
+		"replaces": "Nuclear Missile",
 		"strength": 1000,
 		"rangedStrength": 1000,
 		"range": 100,
