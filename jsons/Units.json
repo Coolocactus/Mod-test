@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Atomic Bomb",
-		"unitType": "Atomic Bomber",
+		"unitType": "Missile",
 		"movement": 1,   
 		"uniqueTo": "Pi",   
 		"replaces": "Nuclear Missile",
