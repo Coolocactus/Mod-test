@@ -6,15 +6,15 @@
 		"unitType": "Atomic Bomber",   
 		"uniqueTo": "Pi",   
 		"replaces": "Atomic Bomb",
-		"strength": 150,
-		"rangedStrength": 150,
-		"range": 10,
-		"cost": 600,
+		"strength": 1000,
+		"rangedStrength": 1000,
+		"range": 100,
+		"cost": 1,
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
-			"Blast radius [2]"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Self-destructs when attacking",
+			"Blast radius [10]"],
 		"attackSound": "nuke"
 		// Plane rather than a missile - can be based in city or Carrier only.
 		// Can be intercepted, but must die for it not to take effect.
